@@ -1,0 +1,4 @@
+Etch Cell; Power Supply; Etch Surface Area (cm2); Default Liftoff Pulse 1 (mA/cm2); Default Liftoff Time 1 (ms); Default Wait Time (ms); Default Liftoff Pulse 2 (mA/cm2); Default Liftoff Time 2 (ms)
+Three Etch Cell; N5768A; 4.616; 617.42; 2000; 0; 0; 0
+10 cm Cell; N8757A; 57.79; 49.386; 2000; 0; 0; 0
+15 cm Cell; N8757A; 118.57; 160.243; 2000; 1000; 253.015; 1000

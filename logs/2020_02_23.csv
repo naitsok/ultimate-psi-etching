@@ -1,0 +1,4 @@
+15 cm Cell	118,570000 cm2	(i)(1)	45 s	Non-linear Current	30,000000 mA/cm2, 2000 ms + 0,100000 mA/cm2 * t^1,000000	Lift-Off: 160,243000 mA/cm2, 2000ms -> wait: 1000 ms -> 253,015000 mA/cm2, 1000 ms.		Result: No current
+Started: 21.25	15 cm Cell	118,570000 cm2	(i)(1)	45 s	Non-linear Current	30,000000 mA/cm2, 2000 ms + 0,100000 mA/cm2 * t^1,000000	Lift-Off: 160,243000 mA/cm2, 2000ms -> wait: 1000 ms -> 253,015000 mA/cm2, 1000 ms.		Result: No current
+Started: 21.30	15 cm Cell118,570000 cm2	Wafer box: (i)(1)	Etch time: 45 s	Non-linear Current	30,000000 mA/cm2, 2000 ms + 0,100000 mA/cm2 * t^1,000000	No Lift-Off pulses		Result: No current
+Started: 21.33	15 cm Cell: 118,570000 cm2	Wafer box: (i)(1)	Etch time: 45 s	Non-linear Current	30,000000 mA/cm2, 2000 ms + 0,100000 mA/cm2 * t^1,000000	Lift-Off: 160,243000 mA/cm2, 2000ms -> wait: 1000 ms -> 253,015000 mA/cm2, 1000 ms.		Result: No current
