@@ -1,6 +1,6 @@
 [![version](https://img.shields.io/badge/version-v2.0.2.5-orange)](https://github.com/naitsok/ultimate-psi-etching/)
 [![build](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/naitsok/ultimate-psi-etching/releases/)
-[![DOI](https://zenodo.org/badge/284663695.svg)](https://zenodo.org/badge/latestdoi/284663695)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6627794.svg)](https://doi.org/10.5281/zenodo.6627794)
 [![License](https://img.shields.io/badge/license-GPLv3.0-blue)](./LICENSE)
 
 # Ultimate PSi Etching
@@ -39,8 +39,8 @@ When using please cite the Ultimate PSi Etching and this repository:
 
 To cite the latest version:
 
-J. Riikonen, K. Tamarov, V.-P. Lehto. 2022. Ultimate PSi Etching. [DOI: 10.5281/zenodo.4629678](https://doi.org/10.5281/zenodo.4749684).
+J. Riikonen, K. Tamarov, V.-P. Lehto. 2022. Ultimate PSi Etching. [DOI: 10.5281/zenodo.6627793](https://doi.org/10.5281/zenodo.6627793).
 
-To cite the specific version, select the DOI of specific version on [Zenodo page](https://doi.org/10.5281/zenodo.4749684):
+To cite the specific version, select the DOI of specific version on [Zenodo page](https://doi.org/10.5281/zenodo.6627793):
 
 J. Riikonen, K. Tamarov, V.-P. Lehto. 2022. Ultimate PSi Etching. 2022. DOI: (Use DOI of specific version).
